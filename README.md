@@ -2,8 +2,10 @@
 
 ## Prerequisites
 
-* Install Terraform using [chocolately](https://chocolatey.org/docs/installation#installing-chocolatey "Chocolatey") by running the following command from the command line:
+* Install Terraform using [chocolately](https://chocolatey.org/docs/installation#installing-chocolatey "Chocolatey"), by running the following command from the command line:
 choco install terraform
+
+*Note*: I used Terraform v0.11.13 for this example.
 
 This should install "terraform" into your PATH.
 
